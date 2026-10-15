@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "Isaac Christian Hub",
+  "short_name": "IsaacHub",
+  "description": "Isaac Christian Hub with Isaka Ambokile - Biblical AI conversational study assistant, ancient cultures, daily motivation prayers, and personalized study plans.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0c0a09",
+  "theme_color": "#0c0a09",
+  "categories": ["education", "lifestyle", "books"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

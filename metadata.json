@@ -1,0 +1,7 @@
+{
+  "name": "Isaac Christian Hub",
+  "description": "Isaac Christian Hub with Isaka Ambokile - Biblical AI conversational study assistant, biblical culture insights, daily motivation prayers, and personalized study plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
